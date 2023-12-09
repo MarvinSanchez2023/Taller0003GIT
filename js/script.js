@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     listenerBtn.push(document.getElementById("subtracao"));
     listenerBtn.push(document.getElementById("divisao"));
     listenerBtn.push(document.getElementById("multiplicacao"));
+    listenerBtn.push(document.getElementById("convertir"));
 
     //teclas númericas da calculadora
     listenerBtn.push(document.getElementById("num0"));
